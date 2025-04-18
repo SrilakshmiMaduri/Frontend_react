@@ -1,12 +1,12 @@
 # frontend-react👩‍💻
 
 ## Parcel--Bundler
-Dev build
-HMR-Hot Module Replacement
-caching-faster builds
-Manification
-compress
-consistent Hashing
+-- Dev build
+-- HMR-Hot Module Replacement
+-- caching-faster builds
+-- Manification
+-- compress
+-- consistent Hashing
 ##
 
 # Babel ---transpiler
